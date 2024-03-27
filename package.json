@@ -1,0 +1,28 @@
+{
+    "name": "simple-pw-gen",
+    "version": "1.0.1",
+    "description": "A simple password generator for Node.js . It allows you to create random and secure passwords on the fly.",
+    "keywords": [
+        "password",
+        "generator",
+        "simple"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/flowerbabe/simple-pw-gen.git"
+    },
+    "author": "@flowerbabe",
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/flowerbabe/simple-pw-gen/master/LICENSE"
+        }
+    ],
+    "dependencies": {
+        "simple-data-json": "^1.0.1",
+        "simple-oprations-maths": "^0.0.2",
+        "simple-slider-photo": "^1.0.1",
+        "simpleton-jwt": "^1.0.1",
+        "smpl-schemas": "^0.0.2"
+    }
+}
